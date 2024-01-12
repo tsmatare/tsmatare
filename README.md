@@ -1,6 +1,7 @@
 ### Hi there 👋
-<div id="header" align = "center">
-  <img src="header1.png" width="80"/>
+<div id="header" align="center">
+<img src="https://github.com/tsmatare/tsmatare/assets/87947574/c11e0100-ee43-4906-9d48-3b1d3f5c5917" height="10%" width="60%" />
+
 </div>
 
 <!--
