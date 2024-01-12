@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align = "center">
+  <img src="header1.png" width="80"/>
+</div>
 
 <!--
 **tsmatare/tsmatare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
