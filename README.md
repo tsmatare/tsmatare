@@ -17,7 +17,7 @@
   - 🌱 I’m currently worrking on improving my web development skills and moving beyond Vanilla Javascript. Time to experiment with Node js, Databases and other technologies
   - Later this year, I'll delv into complex electronics circuit and schematic design
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsmatare&theme=solarized-light)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsmatare"/>
 
 
 </div>
