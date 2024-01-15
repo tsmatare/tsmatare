@@ -14,7 +14,8 @@
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg?plain=1" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-plain.svg?plain=1" width="40" height="40"/>
 
-  - 🌱 I’m currently worrking on improving my web development skills and moving beyond Vanilla Javascript. Time to experiment with Node js, Databases and other technologies
+### What I am learning:
+  - 🌱 I’m currently working on improving my web development skills and moving beyond Vanilla Javascript. Time to experiment with Node js, Databases and other technologies
   - Later this year, I'll delv into complex electronics circuit and schematic design
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsmatare"/>
