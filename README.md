@@ -7,7 +7,8 @@
 ---
 
   I'm into electronics hardware development and web design
-  ### :hammer_and_wrench: Languages and Tools :
+
+  
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg?plain=1"   width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain.svg" width="40" height="40"/>
