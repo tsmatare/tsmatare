@@ -1,7 +1,7 @@
 <div align = "center">
 ---
 
-  I'm into hardware and software development
+  I'm into electronics and software development 
 
 </div>
 <!--
